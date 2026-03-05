@@ -1,5 +1,9 @@
 Una página web interactiva para explorar películas mediante tarjetas (cards) dinámicas. Esta aplicación no reproduce películas, sino que consume una API de películas para mostrar información como título, fecha de estreno y póster de cada película en una interfaz responsive.
 
+<img width="1404" height="960" alt="image" src="https://github.com/user-attachments/assets/8d2aebb0-ca35-4c1f-b72f-3839b5c5bb59" />
+
+
+
 🔹 Características
 
 Carga dinámica de películas usando Fetch API.
@@ -29,3 +33,4 @@ JavaScript (Fetch API) – Consumo de la API y renderizado dinámico.
 API pública de películas – Para obtener información de las películas (título, fecha, poster).
 
 URL DE LA API : https://jsonfakery.com/movies/random
+
